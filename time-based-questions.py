@@ -1,4 +1,4 @@
-#
+# Some random comment
 import random, datetime, pytz, pycountry
 
 from docx import Document
